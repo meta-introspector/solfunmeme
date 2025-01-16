@@ -1,6 +1,10 @@
+Official Communication Channel
+https://codeberg.org/introspector/SOLFUNMEME
+
 # SOLFUNMEME
 
-HMEKzp Zero Ontology System (SOLFUNMEME) 
+HMEKzp's Zero Ontology System (SOLFUNMEME) 
+
 
 Zero Ontology System Support Token 1
 
