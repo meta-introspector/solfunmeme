@@ -28,7 +28,6 @@ const AboutSectionOne = () => {
                 paragraph="The main ‘thrust’ is to focus on enabling $SOLFUNMEME holders how to launch soverign self hosted agents on own servers, to be self dependent and secure."
                 mb="44px"
               />
-
               <div
                 className="mb-12 max-w-[570px] lg:mb-0"
                 data-wow-delay=".15s"
@@ -89,6 +88,7 @@ const AboutSectionOne = () => {
             </div>
           </div>
         </div>
+      </div>
       </div>
     </section>
   );
