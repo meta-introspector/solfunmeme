@@ -56,6 +56,11 @@ const AboutSectionOne = () => {
         <List text="AWS EC2(in progress)" />
 	<List text="Akash(in progress)" />
 	<List text="Docker" />
+	<List text="Github Actions" />
+	<List text="Github Spaces" />
+	<List text="Github Apps" />
+	<List text="Vercel Hosting" />
+	<List text="Hugging Space Spaces" />	
 	<UncheckedList text="K8S(planned)" />
 	<UncheckedList text="wasm(planned)" />
 	<UncheckedList text="zkvm(planned)" />
