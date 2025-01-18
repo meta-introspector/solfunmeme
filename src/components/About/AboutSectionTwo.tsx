@@ -28,11 +28,11 @@ const AboutSectionTwo = () => {
             <div className="max-w-[470px]">
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Bug free code
+		AI Department in a box
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+		Create functional business units centered around individual data sets and models
+		as value propositions. Independent and atomic company units that can be bought or sold.
                 </p>
               </div>
               <div className="mb-9">
@@ -40,17 +40,18 @@ const AboutSectionTwo = () => {
                   Premier support
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt.
+ 		   The community, Our team and others in the DAO will support your AI journey and provide needed resources to your projects via the SOLFUNMEME/ZOS infrastructure.
                 </p>
               </div>
               <div className="mb-1">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Next.js
+                  Zero Ontology System
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt
-                  consectetur adipiscing elit setim.
+		We strive to create simplier and more manageable systems by using zero knowledge technology
+		for managing complex domain specific ontologies in your workflows using the proper
+		mix of quality systems, procedures, regulations, auditing and AI/ML technology.
+		
                 </p>
               </div>
             </div>

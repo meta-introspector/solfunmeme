@@ -24,8 +24,8 @@ const AboutSectionOne = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="Crafted for Startup, SaaS and Business Sites."
-                paragraph="The main ‘thrust’ is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel discussions and roundtables."
+                title="Crafted for Startup, SaaS and Business Agents."
+                paragraph="The main ‘thrust’ is to focus on enabling $SOLFUNMEME holders how to launch soverign self hosted agents on own servers, to be self dependent and secure."
                 mb="44px"
               />
 
@@ -35,17 +35,39 @@ const AboutSectionOne = () => {
               >
                 <div className="mx-[-12px] flex flex-wrap">
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Premium quality" />
-                    <List text="Tailwind CSS" />
-                    <List text="Use for lifetime" />
+                    <List text="One Click Cloud Install" />
+                    <List text="Ticket system for organizing " />
+                    <List text="Free Tier Cloud Options" />
+                    <List text="Own and control all your data and processing" />
                   </div>
 
+		  Agent Frameworks 
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Next.js" />
-                    <List text="Rich documentation" />
-                    <List text="Developer friendly" />
+                    <List text="ElizaOS" />	
+                    <List text="Swarms" />
+                    <List text="AutoGPT" />
                   </div>
-                </div>
+
+		  Cloud Providers
+                  <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
+                    <List text="Terraform" />
+   		    <List text="AWS Lambda(planned)" />
+                    <List text="AWS EC2(in progress)" />
+		    <List text="Akash(in progress)" />		   
+                  </div>
+
+		  Goals
+                  <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
+                    <List text="Zero Trust Archtecture" />
+		    <List text="Zero Knowledge Proofs" />
+    		    <List text="Zero Knowledge Machine Learning" />	
+                    <List text="Infrastructure as Code" />
+                    <List text="Free/Libre Open Source Software" />
+		    <List text="Self Hosted/Cloud Hosted" />
+    		    <List text="Ticket Driven Agent Workforce" />
+		    <List text="AI Department in a box" />
+                  </div>
+
               </div>
             </div>
 
