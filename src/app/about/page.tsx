@@ -5,9 +5,8 @@ import Breadcrumb from "@/components/Common/Breadcrumb";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "About Page | Free Next.js Template for Startup and SaaS",
-  description: "This is About Page for Startup Nextjs Template",
-  // other metadata
+  title: "About Page | $SOLFUNMEME ( BwUTq7fS6sfUmHDwAiCQZ3asSiPEapW5zDrsbwtapump )",
+  description: "This is About Page for the SOLFUNMEME project",
 };
 
 const AboutPage = () => {
@@ -15,7 +14,7 @@ const AboutPage = () => {
     <>
       <Breadcrumb
         pageName="About Page"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In varius eros eget sapien consectetur ultrices. Ut quis dapibus libero."
+        description="SOLFUNMEME is a viral meme-coin with a mission to provide secure sovereign cloud hosting for AI Agents, it is designed to create a GATED DAO community for builder and holders to launch projects using our self hosted, open source technology and integrate zero trust, knowledge as part of the zero ontology system (ZOS)."
       />
       <AboutSectionOne />
       <AboutSectionTwo />
