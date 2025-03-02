@@ -263,3 +263,78 @@ graph TD
     classDef main fill:#f9f,stroke:#333,stroke-width:2px;
     class A,B,C,F,H,I,J,K,L,P,Q,AH main;
 ```
+
+
+```mermaid
+graph TD
+    %% Main Components
+    A[Linux OS Foundation] --> B[AI System]
+    B --> C[ZKML Framework]
+    
+    %% Core System Components
+    C --> D[Compliance & Audit]
+    C --> E[Theoretical Foundation]
+    B --> F[Core Services]
+    
+    %% Project and Token
+    G[$SOLFUNMEME] --> H[Solana Blockchain]
+    G --> I[Token Ecosystem]
+    J[Meta-Meme System] --> G
+    
+    %% Infrastructure
+    K[Infrastructure] --> L[Cloud Services]
+    K --> M[Deployment Tools]
+    K --> N[Development Environment]
+    
+    %% Theoretical Foundations
+    E --> O[Zero Knowledge Proofs]
+    E --> P[Homotopy Type Theory]
+    E --> Q[Unimath]
+    
+    %% Services
+    F --> R[Social Integration]
+    F --> S[AI Services]
+    F --> T[Streaming Services]
+    
+    %% Relationships between major components
+    F --> K
+    G --> F
+    C --> J
+    B --> G
+    E --> I
+    D --> G
+    
+    %% Subcomponents
+    L --> L1[AWS]
+    L --> L2[Multi-Cloud]
+    
+    M --> M1[Terraform]
+    M --> M2[Docker]
+    M --> M3[CloudFormation]
+    
+    N --> N1[Code Tools]
+    N --> N2[Version Control]
+    N --> N3[Package Management]
+    
+    I --> I1[SOLFUNMEME Token]
+    I --> I2[ZOST1 NFT]
+    I --> I3[Regulatory Compliance]
+    
+    R --> R1[Discord]
+    R --> R2[Twitter]
+    R --> R3[Telegram]
+    
+    S --> S1[Eliza Service]
+    S --> S2[LLM Applications]
+    
+    %% Styling
+    classDef core fill:#f9f,stroke:#333,stroke-width:2px;
+    classDef foundation fill:#bbf,stroke:#333,stroke-width:2px;
+    classDef product fill:#fdb,stroke:#333,stroke-width:2px;
+    classDef infra fill:#dfd,stroke:#333,stroke-width:2px;
+    
+    class A,B,C foundation;
+    class D,E,F core;
+    class G,H,I,J product;
+    class K,L,M,N infra;
+```
