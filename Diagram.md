@@ -1,3 +1,7 @@
+
+![Diagram](https://github.com/meta-introspector/solfunmeme/blob/diagram/solfunmeme_Untitled-2025-02-15-1453.svg)
+
+
 converting the diagram to text
 
 https://services.w3.org/xslt?transform=Submit&xmlfile=https%3A%2F%2Fraw.githubusercontent.com%2Fmeta-introspector%2Fsolfunmeme%2Frefs%2Fheads%2Fdiagram%2Fsolfunmeme_Untitled-2025-02-15-1453.svg&xslfile=http%3A%2F%2Fwww.w3.org%2F2002%2F05%2Fsvg2text.xsl
