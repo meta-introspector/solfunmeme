@@ -2,8 +2,8 @@
   description = "A flake for the submodule, providing a development shell for Gemini CLI.";
 
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixos-24.05";
-    flake-utils.url = "github:numtide/flake-utils";
+    nixpkgs.url = "github:meta-introspector/nixpkgs?ref=feature/CRQ-016-nixify";
+    flake-utils.url = "github:meta-introspector/flake-utils?ref=feature/CRQ-016-nixify";
   };
 
   outputs = { self, nixpkgs, flake-utils, ... }@inputs:
